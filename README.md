@@ -20,9 +20,9 @@ Example:
 
 cd /var/www/html
 
-sudo git clone https://github.com/CMAP-SLG/DKAN_TEST.git
+sudo git clone https://github.com/CMAP-SLG/DKAN_DEV.git
 
-This will create /var/www/html/DKAN_TEST beside the current dkan directory.
+This will create /var/www/html/DKAN_DEV beside the current dkan directory.
 
 Changes should be made to files then copied into the correct location of /var/www/html/dkan
 
