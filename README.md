@@ -26,5 +26,7 @@ This will create /var/www/html/DKAN_DEV beside the current dkan directory.
 
 Changes should be made to files then copied into the correct location of /var/www/html/dkan
 
+NOTE: be sure to checkout the MYSQL_DKAN database and follow the Database Change Management Instructions.
+
 Then, after testing, be checked into the DKAN_DEV Repo.
 
