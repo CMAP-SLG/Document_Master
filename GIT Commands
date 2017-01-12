@@ -1,0 +1,7 @@
+
+
+Useful Git Commands.
+
+Change the remote origin (The target to commit to)
+$ git remote set-url origin git@github.com:CMAP-SLG/DKAN_PROD.git
+
