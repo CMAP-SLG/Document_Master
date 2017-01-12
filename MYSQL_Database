@@ -13,3 +13,7 @@ The database change management of the CMAP DKAN SDLC is 10 parts.
 10) Checkin the DKAN_DEV branch changes
 
 Following the Document_Master Readme also requires 
+
+NOTE:
+
+To export or dump see documents in the MYSQL_DKAN repo.
