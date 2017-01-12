@@ -1,0 +1,5 @@
+
+
+#Reset the dkan site admin password, if its lost or forgotton, etc.
+$ drush upwd admin --password=mynewpassword
+
