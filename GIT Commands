@@ -1,6 +1,19 @@
 
 
 Useful Git Commands.
+--------------------------------------
+
+git init
+
+git add .
+
+git commit -m 'commit message'
+
+git status
+
+git remote -v
+
+git push -u origin master
 
 Change the remote origin (The target to commit to)
 $ git remote set-url origin git@github.com:CMAP-SLG/DKAN_PROD.git
